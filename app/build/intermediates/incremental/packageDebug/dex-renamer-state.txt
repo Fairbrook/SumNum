@@ -1,0 +1,7 @@
+#Sun Oct 22 23:36:19 CDT 2017
+base.0=F\:\\Tarea\\movil\\Numeros\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8404bd702f3d3cb3c527cb3bcbf25b72c746f3a1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Tarea\\movil\\Numeros\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_85b6e7c580ddd9623f1df9426c140ed6476883e7\\classes.dex
+base.1=F\:\\Tarea\\movil\\Numeros\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_85b6e7c580ddd9623f1df9426c140ed6476883e7
+file.0=F\:\\Tarea\\movil\\Numeros\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8404bd702f3d3cb3c527cb3bcbf25b72c746f3a1\\classes.dex
